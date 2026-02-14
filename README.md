@@ -32,7 +32,7 @@ The assignment includes:
 ---
 
 ## 📂 Repository Structure
-CSL7110-Distributed-Systems-Assignment/
+CSL7110-ML-FOR-BIGDATA-Assignment/
 │
 ├── MapReduce/
 │ └── WordCount.java
